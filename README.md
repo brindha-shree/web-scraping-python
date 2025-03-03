@@ -68,23 +68,5 @@ python scripts/scraper.py
 ✔ Cleans and **saves data in CSV format** using Pandas.  
 ✔ Can be extended to **scrape other Wikipedia tables**.  
 
----
 
-## **💡 Future Improvements**  
-🔹 Automate daily updates with a **scheduled script**.  
-🔹 Store data in a **SQL database** instead of CSV.  
-🔹 Build a **Tableau/Power BI dashboard** for visualization.  
 
----
-
-## **📜 Disclaimer**  
-This project is for **educational purposes only**. Ensure compliance with **Wikipedia's robots.txt** and scraping policies.  
-
----
-
-## **📬 Connect with Me**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🐙 [GitHub](https://github.com/your-username)  
-
----
-
-This **README.md** will make your GitHub project look **professional & complete**! 🚀 Let me know if you want any modifications. 😊
